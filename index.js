@@ -1,4 +1,4 @@
-/*console.log("Hello world!");
+Ne.log("Hello world!");
 
 let a=55
 let b=null
